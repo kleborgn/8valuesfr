@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question" : "De chacun selon ses capacités, à chacun selon ses besoins.",
+        "question" : "De chacun selon ses moyens, à chacun selon ses besoins.",
         "effect" : {
             "econ" : 10,
             "dipl" : 0,
