@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question" : "Ma nation est grande.",
+        "question" : "Je suis fier de mon pays.",
         "effect" : {
             "econ" : 0,
             "dipl" : -10,
