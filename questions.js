@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question" : "Les Nations Unies devraient être abolies",
+        "question" : "L'Organisation des Nations Unies (ONU) devrait être dissoute.",
         "effect" : {
             "econ" : 0,
             "dipl" : -10,
